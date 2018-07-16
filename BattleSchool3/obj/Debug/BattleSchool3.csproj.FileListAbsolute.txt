@@ -1,0 +1,14 @@
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\obj\Debug\BattleSchool3.csprojAssemblyReference.cache
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\obj\Debug\BattleSchool3.Form1.resources
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\obj\Debug\BattleSchool3.Properties.Resources.resources
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\obj\Debug\BattleSchool3.csproj.GenerateResource.cache
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\obj\Debug\BattleSchool3.csproj.CoreCompileInputs.cache
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\bin\Debug\BattleSchool3.exe.config
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\bin\Debug\BattleSchool3.exe
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\bin\Debug\BattleSchool3.pdb
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\obj\Debug\BattleSchool3.exe
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\obj\Debug\BattleSchool3.pdb
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\bin\Debug\BattleSchool3.exe.manifest
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\bin\Debug\BattleSchool3.application
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\obj\Debug\BattleSchool3.exe.manifest
+C:\Users\Cristi Priciu\source\repos\BattleSchool3\BattleSchool3\obj\Debug\BattleSchool3.application
